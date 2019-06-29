@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/back">
+        <file>loge.ico</file>
+        <file>mainwindow_bg.png</file>
+        <file>userslogin_bk.jpg</file>
+        <file>search_bg.png</file>
+    </qresource>
+</RCC>
