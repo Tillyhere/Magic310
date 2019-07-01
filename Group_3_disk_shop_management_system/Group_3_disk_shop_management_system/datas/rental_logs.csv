@@ -1,0 +1,6 @@
+时间,用户名,用户ID,租出/归还,影片名,影片ID
+2019/7/2 0:02,Administrator,0,Return,codes,2
+2019-07-02 01:07:21,user2,2,Borrow,codes,00002
+2019-07-02 01:07:27,user2,2,Return,EXE,00003
+2019-07-02 01:09:46,user1,1,Borrow,EXE,00003
+2019-07-02 01:10:30,user1,1,Borrow,EXE,00003
